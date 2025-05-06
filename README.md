@@ -1,6 +1,6 @@
 # fylo-data-storage-component-master
 
-Hello everyone. Thanks to the course I took on Udemig, I added a new one to my projects. Here is a "fylo-data-storage-component-master " created with html and css.
+Hello, I'm here with another project now. Here is a "fylo-data-storage-component-master " created with html and css.
 
 # Usage Tecnologies
 
